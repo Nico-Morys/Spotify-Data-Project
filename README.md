@@ -9,7 +9,7 @@ Welcome to my Spotify Data Project. This project was designed to showcase my SQL
 **Table of Contents**
 Links Below
 1. WEBSITE
-2. Question 1 - [[Which artists appear the most?] (https://apex.oracle.com/pls/apex/r/dbprojectfinal/dbprojectfinal/home?session=103186989674124)]
+2. [Question 1 - Which artists appear the most?](https://apex.oracle.com/pls/apex/r/dbprojectfinal/dbprojectfinal/home?session=103186989674124)
 3. Question 2 - 
 4. Question 3 - 
 5. Question 4 - 
