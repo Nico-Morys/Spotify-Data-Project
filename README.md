@@ -8,9 +8,9 @@ Welcome to my Spotify Data Project. This project was designed to showcase my SQL
 
 **Table of Contents**
 Links Below
-1. WEBSITE
-2. [Question 1 - Which artists appear the most?](https://apex.oracle.com/pls/apex/r/dbprojectfinal/dbprojectfinal/home?session=103186989674124)
-3. Question 2 - 
-4. Question 3 - 
-5. Question 4 - 
-6. Question 5 - 
+1. [WEBSITE](https://apex.oracle.com/pls/apex/r/dbprojectfinal/dbprojectfinal/home?session=103186989674124)
+2. [Question 1 - Which artists appear the most?](https://apex.oracle.com/pls/apex/r/dbprojectfinal/dbprojectfinal/most-frequent-artist-in-top-100?session=103186989674124)
+3. [Question 2 - Top 100 songs by BPM?](https://apex.oracle.com/pls/apex/r/dbprojectfinal/dbprojectfinal/top-songs-in-bpm-range-75-115?session=103186989674124)
+4. [Question 3 - Genre with the highest top 100 songs?](https://apex.oracle.com/pls/apex/r/dbprojectfinal/dbprojectfinal/genre-with-the-highest-top-100-songs?session=103186989674124)
+5. [Question 4 - What are the longest songs?](https://apex.oracle.com/pls/apex/r/dbprojectfinal/dbprojectfinal/q4-longest-songs1?session=103186989674124)
+6. [Question 5 - Whoa are the top 5 artists with the longest songs?](https://apex.oracle.com/pls/apex/r/dbprojectfinal/dbprojectfinal/top-5-artists-with-the-longest-average-song-length?session=103186989674124)
